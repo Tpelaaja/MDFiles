@@ -13,7 +13,7 @@
 - [!fantasyname](#fantasyname)
 - [!ffz](#ffz)
 - [!flowa](#flowa)
-- [!flowabot](#flowabot)
+- [!about](#about)
 - [!help](#help)
 - [!ign-set](#ign-set)
 - [!lastfm](#lastfm)
@@ -206,10 +206,10 @@ Show a random flower picture. Images from <https://pexels.com/>.
 !flowa sakura tree
 ```
 Returns a random picture of a sakura tree.
-## !flowabot
+## !about
 Show information about this bot.
 
-**Usage**: `!flowabot`
+**Usage**: `!about`
 ## !help
 Get help for a command.
 
